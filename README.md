@@ -1,34 +1,32 @@
 
 
-A new Flutter project.
-
 ## App Screenshots
 
 <table>
   <tr>
-    <td align="center" style="padding-right:20px;"><img src="project%20overview/home.png" width="160"/><br/>Home</td>
-    <td align="center" style="padding-right:20px;"><img src="project%20overview/Game%20deshboard.png" width="160"/><br/>Dashboard</td>
-    <td align="center"><img src="project%20overview/subscription%20plane.png" width="160"/><br/>Subscription</td>
+    <td align="center" style="padding-right:20px;"><img src="project%20overview/home.png" width="220"/><br/>Home</td>
+    <td align="center" style="padding-right:20px;"><img src="project%20overview/Game%20deshboard.png" width="220"/><br/>Dashboard</td>
+    <td align="center"><img src="project%20overview/subscription%20plane.png" width="220"/><br/>Subscription</td>
   </tr>
   <tr>
-    <td align="center" style="padding-right:20px;"><img src="project%20overview/login.png" width="160"/><br/>Login</td>
-    <td align="center" style="padding-right:20px;"><img src="project%20overview/profile.png" width="160"/><br/>Profile</td>
-    <td align="center"><img src="project%20overview/notifications.png" width="160"/><br/>Notifications</td>
+    <td align="center" style="padding-right:20px;"><img src="project%20overview/login.png" width="220"/><br/>Login</td>
+    <td align="center" style="padding-right:20px;"><img src="project%20overview/profile.png" width="220"/><br/>Profile</td>
+    <td align="center"><img src="project%20overview/notifications.png" width="220"/><br/>Notifications</td>
   </tr>
   <tr>
-    <td align="center" style="padding-right:20px;"><img src="project%20overview/mlb%20line%20up.png" width="160"/><br/>MLB Lineup</td>
-    <td align="center" style="padding-right:20px;"><img src="project%20overview/playeres.png" width="160"/><br/>Players</td>
-    <td align="center"><img src="project%20overview/predictions.png" width="160"/><br/>Predictions</td>
+    <td align="center" style="padding-right:20px;"><img src="project%20overview/mlb%20line%20up.png" width="220"/><br/>MLB Lineup</td>
+    <td align="center" style="padding-right:20px;"><img src="project%20overview/playeres.png" width="220"/><br/>Players</td>
+    <td align="center"><img src="project%20overview/predictions.png" width="220"/><br/>Predictions</td>
   </tr>
   <tr>
-    <td align="center" style="padding-right:20px;"><img src="project%20overview/head%20to%20head%20record.png" width="160"/><br/>Head to Head</td>
-    <td align="center" style="padding-right:20px;"><img src="project%20overview/tune%20up.png" width="160"/><br/>Tune Up</td>
-    <td align="center"><img src="project%20overview/Select%20game.png" width="160"/><br/>Select Game</td>
+    <td align="center" style="padding-right:20px;"><img src="project%20overview/head%20to%20head%20record.png" width="220"/><br/>Head to Head</td>
+    <td align="center" style="padding-right:20px;"><img src="project%20overview/tune%20up.png" width="220"/><br/>Tune Up</td>
+    <td align="center"><img src="project%20overview/Select%20game.png" width="220"/><br/>Select Game</td>
   </tr>
   <tr>
-    <td align="center" style="padding-right:20px;"><img src="project%20overview/upload%20pic.png" width="160"/><br/>Upload Pic</td>
-    <td align="center" style="padding-right:20px;"><img src="project%20overview/card%20details.png" width="160"/><br/>Card Details</td>
-    <td align="center"><img src="project%20overview/promo%20code.png" width="160"/><br/>Promo Code</td>
+    <td align="center" style="padding-right:20px;"><img src="project%20overview/upload%20pic.png" width="220"/><br/>Upload Pic</td>
+    <td align="center" style="padding-right:20px;"><img src="project%20overview/card%20details.png" width="220"/><br/>Card Details</td>
+    <td align="center"><img src="project%20overview/promo%20code.png" width="220"/><br/>Promo Code</td>
   </tr>
 </table>
 
